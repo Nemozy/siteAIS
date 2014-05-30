@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="kkgamesforais" Class="gamesdbDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=kkgamesforais.mssql.somee.com;Initial Catalog=kkgamesforais;Persist Security Info=True;User ID=noxDerpolly19923r5;Packet Size=4096;Workstation ID=kkgamesforais.mssql.somee.com" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="kkgamesforaisConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.authkeydb" Member="authkeydb">
+    <Type Name="authkeydb">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="authkey" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="datetime" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.yacheykadb" Member="yacheykadb">
+    <Type Name="yacheykadb">
+      <Column Name="Id" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="type" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="item_id" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.energydb" Member="energydb">
+    <Type Name="energydb">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="energylimit" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="energycount" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="datetime" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.expdb" Member="expdb">
+    <Type Name="expdb">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="expcount" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.globalitemdb" Member="globalitemdb">
+    <Type Name="globalitemdb">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="type" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.inventorydb" Member="inventorydb">
+    <Type Name="inventorydb">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="idmassyacheek" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.moneydb" Member="moneydb">
+    <Type Name="moneydb">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="gold" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="oensh" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.racedb" Member="racedb">
+    <Type Name="racedb">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="type" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.racetypedb" Member="racetypedb">
+    <Type Name="racetypedb">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="damage" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="hp" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="mp" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.settingsdb" Member="settingsdb">
+    <Type Name="settingsdb">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="music" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="sound" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="volume" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.shipdb" Member="shipdb">
+    <Type Name="shipdb">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="shiptype" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.stagedb" Member="stagedb">
+    <Type Name="stagedb">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="planet1" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="planet2" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="planet3" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="planet4" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="planet5" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="planet6" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="planet7" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="planet8" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="planet9" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="planet10" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="planet11" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="planet12" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="planet13" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="planet14" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="planet15" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="lastplanetwin" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.userdb" Member="userdb">
+    <Type Name="userdb">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Nickname" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="Idsbase" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Timecreate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

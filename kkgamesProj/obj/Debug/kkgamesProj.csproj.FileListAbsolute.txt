@@ -1,0 +1,165 @@
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\kkgamesProj.dll.config
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\kkgamesProj.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\kkgamesProj.pdb
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\Antlr3.Runtime.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\EntityFramework.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\EntityFramework.SqlServer.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\Microsoft.AspNet.Identity.Core.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\Microsoft.Owin.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\Microsoft.Owin.Security.Cookies.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\Microsoft.Owin.Security.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\Microsoft.Owin.Security.Facebook.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\Microsoft.Owin.Security.Google.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\Microsoft.Owin.Security.OAuth.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\Microsoft.Owin.Security.Twitter.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\Microsoft.Web.Infrastructure.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\Newtonsoft.Json.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\Owin.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\System.Net.Http.Formatting.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\System.Web.Helpers.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\System.Web.Http.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\System.Web.Http.WebHost.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\System.Web.Mvc.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\System.Web.Optimization.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\System.Web.Razor.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\System.Web.WebPages.Deployment.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\System.Web.WebPages.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\System.Web.WebPages.Razor.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\WebGrease.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\System.Web.Helpers.xml
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\System.Web.Mvc.xml
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\System.Web.Optimization.xml
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\System.Web.Razor.xml
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\System.Web.WebPages.xml
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\System.Web.WebPages.Deployment.xml
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\System.Web.WebPages.Razor.xml
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\Newtonsoft.Json.xml
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\Antlr3.Runtime.pdb
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\System.Net.Http.Formatting.xml
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\System.Web.Http.xml
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\System.Web.Http.WebHost.xml
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\EntityFramework.xml
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\EntityFramework.SqlServer.xml
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\Microsoft.AspNet.Identity.Core.xml
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\Microsoft.Owin.xml
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\Microsoft.Owin.Security.xml
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\Microsoft.Owin.Security.Facebook.xml
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\Microsoft.Owin.Security.Cookies.xml
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\Microsoft.Owin.Security.OAuth.xml
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\Microsoft.Owin.Security.Google.xml
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\Microsoft.Owin.Security.Twitter.xml
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\ru\System.Web.Helpers.resources.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\ru\System.Web.Mvc.resources.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\ru\System.Web.Optimization.resources.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\ru\System.Web.Razor.resources.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\ru\System.Web.WebPages.resources.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\ru\System.Web.WebPages.Deployment.resources.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\ru\System.Web.WebPages.Razor.resources.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\ru\System.Net.Http.Formatting.resources.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\ru\System.Web.Http.resources.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\ru\System.Web.Http.WebHost.resources.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\ru\EntityFramework.resources.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\ru\EntityFramework.SqlServer.resources.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\ru\Microsoft.Owin.resources.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\ru\Microsoft.Owin.Security.resources.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\obj\Debug\kkgamesProj.csprojResolveAssemblyReference.cache
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\obj\Debug\kkgamesProj.dll
+c:\Users\1\Documents\Visual Studio 2013\Projects\kkgamesProj\kkgamesProj\obj\Debug\kkgamesProj.pdb
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\kkgamesProj.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\kkgamesProj.pdb
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\Antlr3.Runtime.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\EntityFramework.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\EntityFramework.SqlServer.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\Microsoft.AspNet.Identity.Core.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\Microsoft.Owin.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\Microsoft.Owin.Security.Cookies.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\Microsoft.Owin.Security.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\Microsoft.Owin.Security.Facebook.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\Microsoft.Owin.Security.Google.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\Microsoft.Owin.Security.OAuth.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\Microsoft.Owin.Security.Twitter.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\Microsoft.Web.Infrastructure.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\Newtonsoft.Json.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\Owin.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\System.Net.Http.Formatting.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\System.Web.Helpers.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\System.Web.Http.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\System.Web.Http.WebHost.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\System.Web.Mvc.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\System.Web.Optimization.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\System.Web.Razor.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\System.Web.WebPages.Deployment.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\System.Web.WebPages.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\System.Web.WebPages.Razor.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\WebGrease.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\System.Web.Helpers.xml
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\System.Web.Mvc.xml
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\System.Web.Optimization.xml
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\System.Web.Razor.xml
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\System.Web.WebPages.xml
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\System.Web.WebPages.Deployment.xml
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\System.Web.WebPages.Razor.xml
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\Newtonsoft.Json.xml
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\Antlr3.Runtime.pdb
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\System.Net.Http.Formatting.xml
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\System.Web.Http.xml
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\System.Web.Http.WebHost.xml
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\EntityFramework.xml
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\EntityFramework.SqlServer.xml
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\Microsoft.AspNet.Identity.Core.xml
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\Microsoft.Owin.xml
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\Microsoft.Owin.Security.xml
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\Microsoft.Owin.Security.Facebook.xml
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\Microsoft.Owin.Security.Cookies.xml
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\Microsoft.Owin.Security.OAuth.xml
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\Microsoft.Owin.Security.Google.xml
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\Microsoft.Owin.Security.Twitter.xml
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\ru\System.Web.Helpers.resources.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\ru\System.Web.Mvc.resources.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\ru\System.Web.Optimization.resources.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\ru\System.Web.Razor.resources.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\ru\System.Web.WebPages.resources.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\ru\System.Web.Http.resources.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\ru\EntityFramework.resources.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\ru\Microsoft.Owin.resources.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\ru\Microsoft.Owin.Security.resources.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\obj\Debug\kkgamesProj.csprojResolveAssemblyReference.cache
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\obj\Debug\kkgamesProj.dll
+D:\localRepository\flashgames\flashgames\server\kkgamesProj_ver0.02\kkgamesProj\kkgamesProj\obj\Debug\kkgamesProj.pdb
